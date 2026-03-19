@@ -85,5 +85,5 @@ Development: L34D3R
 
 
 
-Collaboration: Chuck, Larkz \& Toff
+Collaboration: Chuck, Larkz, Toff \& Wh1th3R
 
