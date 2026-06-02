@@ -19,7 +19,7 @@ Optimizer X is a powerful, all-in-one PowerShell utility designed to drastically
 ## 📥 Installation & Usage
 
 1. Download the latest version of the script or clone this repository.
-2. Open `OptimizerX.exe`.
+2. Run `OptimizerX.exe` file.
 3. Select your desired language (EN / FR).
 4. Browse the left navigation menu and check the optimizations you want to apply.
 5. Click the **"APPLY SELECTION"** button at the bottom right.
